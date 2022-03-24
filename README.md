@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Maison</h1>
-<h3 align="center">a Developer & Life lover from France</h3>
+<h3 align="center">a developer & life lover from France</h3>
 
 <p align="left"> <a href="https://twitter.com/alexis2md" target="blank"><img src="https://img.shields.io/twitter/follow/alexis2md?logo=twitter&style=for-the-badge" alt="alexis2md" /></a> </p>
 
