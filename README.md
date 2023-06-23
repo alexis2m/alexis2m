@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alexis2md" target="blank"><img src="https://img.shields.io/twitter/follow/alexis2md?logo=twitter&style=for-the-badge" alt="alexis2md" /></a> </p>
 
-- 📝 I regularly write articles on [https://alexismaison.com/blog](alexismaison.com/blog)
+- 📝 I regularly write articles on [alexismaison.com/blog](https://alexismaison.com/blog)
 
 - ⚡ Fun fact **I love playing Ultimate Frisbee**
 
