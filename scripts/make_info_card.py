@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W, H = 480, 400
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -39,21 +39,22 @@ ACCENT = "#22d3ee"
 # ("gap",)                     -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Poste", "Développeur full-stack freelance"),
-    ("kv", "Expérience", "6 ans"),
-    ("kv", "Focus", "SaaS B2B, CRM, outils internes"),
-    ("kv", "Statut", "Disponible"),
+    ("kv", "Poste", "Fondateur & intégrateur Odoo"),
+    ("kv", "Agence", "Roekish · Lyon"),
+    ("kv", "Expérience", "5 ans"),
+    ("kv", "Clients", "24 PME · 60+ modules en prod"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Back-end", "Node.js, Supabase, PostgreSQL"),
-    ("kv", "Front-end", "Next.js, TypeScript, Tailwind"),
-    ("kv", "Tests", "Vitest, Playwright"),
-    ("kv", "DevOps", "GitHub Actions, Sentry, Cloud Run"),
+    ("kv", "ERP", "Odoo, PostgreSQL, Python"),
+    ("kv", "Front-end", "Next.js, React, TypeScript"),
+    ("kv", "Back-end", "Node.js, Laravel, Stripe"),
+    ("kv", "DevOps", "Jenkins, Sentry, CI/CD"),
     ("gap",),
-    ("sec", "Projets"),
-    ("bul", "Aizily — SaaS IA, monitoring temps réel"),
-    ("bul", "Keyni — gestion locative, CI/CD complet"),
-    ("bul", "Tambè — CRM de gestion d'atelier"),
+    ("sec", "Méthode"),
+    ("bul", "Cadrage métier avant paramétrage"),
+    ("bul", "Intégration sur-mesure"),
+    ("bul", "Formation des équipes"),
+    ("bul", "Continuité opérationnelle"),
 ]
 
 
