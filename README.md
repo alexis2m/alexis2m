@@ -28,9 +28,10 @@
 
 <h3><code>alexis@github ~ $ ./links.sh</code></h3>
 
-<p><b>Intégrateur Odoo pour PME · Je déploie votre ERP sans que vous en deveniez prisonnier</b></p>
+<p><b>Intégrateur Odoo pour PME · Auteur Next.js aux Éditions ENI</b></p>
 
 [![Réserver 15 min](https://img.shields.io/badge/%F0%9F%93%85_R%C3%A9server_15_min-cal.com-22d3ee?style=for-the-badge&logoColor=black)](https://cal.com/alexismaison/odoo)
+[![Livre ENI](https://img.shields.io/badge/%F0%9F%93%98_Auteur-Next.js%20chez%20ENI-1a7f37?style=for-the-badge&logoColor=white)](https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771)
 [![Roekish](https://img.shields.io/badge/Agence-roekish.com-0d1117?style=for-the-badge&logo=odoo&logoColor=white)](https://roekish.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexis2m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis2m)
 [![Email](https://img.shields.io/badge/Email-hello@alexismaison.com-555?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@alexismaison.com)
@@ -53,6 +54,31 @@ Vous gagnez des heures chaque semaine, vous fiabilisez vos chiffres, et vous res
 
 > *Piloting systems, building futures.*  
 > Mon approche technique s'inspire de l'aviation : fiabilité, anticipation, clarté.
+
+---
+
+## 📘 Mon livre — *Next.js pour les développeurs React*
+
+<table>
+<tr>
+<td width="200" valign="top">
+<a href="https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771"><img src="./book-nextjs-eni.jpg" width="180" alt="Couverture — Next.js pour les développeurs React, Éditions ENI" /></a>
+</td>
+<td valign="top">
+
+**Next.js pour les développeurs React**  
+*Le guide complet pour des applications web professionnelles*
+
+**Éditions ENI**, collection Expert IT · avril 2026 · 464 pages · niveau Confirmé à Expert  
+ISBN 978-2-409-05377-1
+
+Une approche résolument pratique : le livre n'explique pas seulement Next.js, il montre comment l'utiliser pour créer des applications modernes réellement exploitables **en production**. Optimisation front-end, performances, SEO, accessibilité, animation, tests, débogage, revue de code, déploiement, automatisation et scalabilité — chaque chapitre s'appuie sur du code clair, des exemples concrets et des exercices.
+
+[![Voir le livre](https://img.shields.io/badge/Voir_le_livre-editions--eni.fr-1a7f37?style=for-the-badge&logoColor=white)](https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -113,6 +139,10 @@ Les clients restent propriétaires de leur outil, sans dépendance.
 
 ## ✍️ Publications
 
+**Ouvrage**
+- ***[Next.js pour les développeurs React — Le guide complet pour des applications web professionnelles](https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771)***, Éditions ENI, avril 2026 (464 p.)
+
+**Articles**
 - *De l'identité à l'impact : la nouvelle grammaire des marques*
 - *Le Paradoxe de la Prudence : quand la lenteur institutionnelle devient une faille de sécurité*
 - *What we call intelligence*

@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 400
+W, H = 480, 420
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -41,8 +41,9 @@ ROWS = [
     ("host",),
     ("kv", "Poste", "Fondateur & intégrateur Odoo"),
     ("kv", "Agence", "Roekish · Lyon"),
-    ("kv", "Expérience", "5 ans"),
-    ("kv", "Clients", "24 PME · 60+ modules en prod"),
+    ("kv", "Odoo", "5 ans · 24 PME · 60+ modules"),
+    ("kv", "Dev", "6 ans · full-stack TypeScript"),
+    ("kv", "Auteur", "Next.js — Éditions ENI, 2026"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "ERP", "Odoo, PostgreSQL, Python"),
