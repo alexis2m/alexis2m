@@ -1,80 +1,48 @@
+<!-- Cartes générées par scripts/render_cards.py, rafraîchies chaque jour par
+     .github/workflows/update-profile-art.yml à partir des données publiques. -->
+
 <div align="center">
 
-<!-- graphe de contributions animé : données réelles, cellules révélées une à une
-     (régénéré quotidiennement par .github/workflows/update-profile-art.yml) -->
+<a href="https://roekish.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/hero-dark.svg"><img src="./cards/hero-light.svg" width="100%" alt="Alexis Maison, consultant Odoo et développeur, fondateur de Roekish, auteur chez ENI"></picture></a>
 
-<h3><code>alexis@github ~ $ ./contributions.sh</code></h3>
+<a href="https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-livre-dark.svg"><img src="./cards/tile-livre-light.svg" width="32.5%" alt="Livre de 464 pages : Next.js pour les développeurs React, Éditions ENI, avril 2026"></picture></a> <a href="https://roekish.com/etudes-de-cas"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-roekish-dark.svg"><img src="./cards/tile-roekish-light.svg" width="32.5%" alt="Plus de 24 PME accompagnées avec Roekish"></picture></a> <a href="https://github.com/roekish-org"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-open-source-dark.svg"><img src="./cards/tile-open-source-light.svg" width="32.5%" alt="3 modules transporteurs Odoo 19 publiés en open source"></picture></a>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Graphe de contributions GitHub d'Alexis — actualisé chaque jour" />
+<a href="https://github.com/alexis2m"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/activity-dark.svg"><img src="./cards/activity-light.svg" width="100%" alt="Contributions GitHub des 12 derniers mois"></picture></a>
 
-<br>
-<br>
-
-<!-- hero : portrait ASCII monochrome (frappé à l'écran) à côté d'un panneau
-     façon neofetch. régénérer le portrait : python scripts/prep_photo.py <photo> &&
-     python scripts/make_ascii_svg.py ; panneau info : python scripts/make_info_card.py -->
-
-<h3><code>alexis@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./alexis-ascii.svg" width="370" alt="Alexis Maison — portrait ASCII" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Alexis Maison — Roekish, stack, méthode" /></td>
-</tr>
-</table>
-
-<br>
-<br>
-
-<h3><code>alexis@github ~ $ ./links.sh</code></h3>
-
-<p><b>Intégrateur Odoo pour PME · Auteur Next.js aux Éditions ENI</b></p>
-
-[![Réserver 15 min](https://img.shields.io/badge/%F0%9F%93%85_R%C3%A9server_15_min-cal.com-22d3ee?style=for-the-badge&logoColor=black)](https://cal.com/alexismaison/odoo)
-[![Livre ENI](https://img.shields.io/badge/%F0%9F%93%98_Auteur-Next.js%20chez%20ENI-1a7f37?style=for-the-badge&logoColor=white)](https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771)
-[![Roekish](https://img.shields.io/badge/Agence-roekish.com-0d1117?style=for-the-badge&logo=odoo&logoColor=white)](https://roekish.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexis2m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis2m)
-[![Email](https://img.shields.io/badge/Email-hello@alexismaison.com-555?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@alexismaison.com)
-
-<br>
+[Roekish](https://roekish.com) · [Le livre chez ENI](https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771) · [LinkedIn](https://www.linkedin.com/in/alexis2m) · [Réserver 15 min](https://cal.com/alexismaison/odoo) · [hello@alexismaison.com](mailto:hello@alexismaison.com)
 
 </div>
 
 ---
 
-## 🧭 Le problème que je résous
+## Ce que je fais
 
-**Avant** : trois logiciels qui ne communiquent pas, des exports Excel à la main, un dirigeant qui pilote à l'aveugle.
+J'ai fondé [Roekish](https://roekish.com) en 2023. Nous installons Odoo dans les entreprises de 5 à 50 personnes : ventes, stock, achats et factures dans un seul outil, avec un prix fixé avant de commencer. Plus de 24 PME accompagnées, dont [JG Fashion](https://roekish.com/etudes-de-cas/jg-fashion) : six canaux de vente réunis dans Odoo 19 en sept jours de mise en place.
 
-**Après** : un ERP unique, des données à jour en temps réel, des équipes autonomes.
+Je mène les diagnostics et les cadrages, et je suis chaque projet jusqu'à la mise en service. Les clients gardent leur base Odoo et leur code à leur nom.
 
-C'est ce que je fais depuis **5 ans**. Je déploie **Odoo** dans les PME avec **[Roekish](https://roekish.com)** — **24 entreprises accompagnées**, **60+ modules en production**.
-
-Vous gagnez des heures chaque semaine, vous fiabilisez vos chiffres, et vous restez **propriétaire de votre outil**. Pas de captivité.
-
-> *Piloting systems, building futures.*  
-> Mon approche technique s'inspire de l'aviation : fiabilité, anticipation, clarté.
+Le code qui peut servir à d'autres est publié sur [github.com/roekish-org](https://github.com/roekish-org), par exemple les transporteurs [La Poste / Colissimo](https://roekish.com/applications/la-poste), [Mondial Relay](https://roekish.com/applications/mondial-relay) et [DPD France](https://roekish.com/applications/dpd-france) pour Odoo 19.
 
 ---
 
-## 📘 Mon livre — *Next.js pour les développeurs React*
+## Mon livre : *Next.js pour les développeurs React*
 
 <table>
 <tr>
 <td width="200" valign="top">
-<a href="https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771"><img src="./book-nextjs-eni.jpg" width="180" alt="Couverture — Next.js pour les développeurs React, Éditions ENI" /></a>
+<a href="https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771"><img src="./book-nextjs-eni.jpg" width="180" alt="Couverture : Next.js pour les développeurs React, Éditions ENI" /></a>
 </td>
 <td valign="top">
 
 **Next.js pour les développeurs React**  
 *Le guide complet pour des applications web professionnelles*
 
-**Éditions ENI**, collection Expert IT · avril 2026 · 464 pages · niveau Confirmé à Expert  
+Éditions ENI, collection Expert IT · avril 2026 · 464 pages · niveau Confirmé à Expert  
 ISBN 978-2-409-05377-1
 
-Une approche résolument pratique : le livre n'explique pas seulement Next.js, il montre comment l'utiliser pour créer des applications modernes réellement exploitables **en production**. Optimisation front-end, performances, SEO, accessibilité, animation, tests, débogage, revue de code, déploiement, automatisation et scalabilité — chaque chapitre s'appuie sur du code clair, des exemples concrets et des exercices.
+Le livre part d'un projet et va jusqu'à la production : performances, SEO, accessibilité, tests, débogage, revue de code, déploiement. Chaque chapitre s'appuie sur du code et des exercices.
 
-[![Voir le livre](https://img.shields.io/badge/Voir_le_livre-editions--eni.fr-1a7f37?style=for-the-badge&logoColor=white)](https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771)
+[Voir le livre sur editions-eni.fr](https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771)
 
 </td>
 </tr>
@@ -82,20 +50,7 @@ Une approche résolument pratique : le livre n'explique pas seulement Next.js, i
 
 ---
 
-## 📐 Ma méthode, en 4 phases
-
-| Phase | Ce que je fais |
-|-------|----------------|
-| **1. Cadrage métier** | J'audite votre métier **avant** de toucher au moindre paramètre |
-| **2. Intégration sur-mesure** | Je configure et développe ce que votre activité exige réellement |
-| **3. Formation** | Vos équipes prennent l'outil en main, pour de bon |
-| **4. Continuité** | J'assure le suivi opérationnel — vous n'êtes jamais laissé seul |
-
-Les clients restent propriétaires de leur outil, sans dépendance.
-
----
-
-## 🧰 Stack & outils
+## Stack et outils
 
 | Domaine | Technologies |
 |---------|--------------|
@@ -107,7 +62,7 @@ Les clients restent propriétaires de leur outil, sans dépendance.
 
 ---
 
-## 💼 Expérience
+## Expérience
 
 | Période | Rôle | Contexte |
 |---------|------|----------|
@@ -121,7 +76,7 @@ Les clients restent propriétaires de leur outil, sans dépendance.
 
 ---
 
-## 🎓 Formation & certifications
+## Formation et certifications
 
 **Formation**
 - **MBA spécialisé — Expert en Finance des entreprises**, ESG (2025)
@@ -137,7 +92,7 @@ Les clients restent propriétaires de leur outil, sans dépendance.
 
 ---
 
-## ✍️ Publications
+## Publications
 
 **Ouvrage**
 - ***[Next.js pour les développeurs React — Le guide complet pour des applications web professionnelles](https://www.editions-eni.fr/livre/next-js-pour-les-developpeurs-react-le-guide-complet-pour-des-applications-web-professionnelles-9782409053771)***, Éditions ENI, avril 2026 (464 p.)
@@ -150,15 +105,10 @@ Les clients restent propriétaires de leur outil, sans dépendance.
 
 ---
 
-## 📬 On en parle ?
+## Me contacter
 
-**[📅 Réserver 15 min](https://cal.com/alexismaison/odoo)** — on regarde ensemble ce qu'Odoo changerait pour vous.
-
+- **Réserver 15 min** : [cal.com/alexismaison/odoo](https://cal.com/alexismaison/odoo)
 - **Email** : [hello@alexismaison.com](mailto:hello@alexismaison.com)
 - **LinkedIn** : [linkedin.com/in/alexis2m](https://www.linkedin.com/in/alexis2m)
 - **Agence** : [roekish.com](https://roekish.com)
-- **Zone** : Lyon et périphérie
-
----
-
-> *Votre métier mérite un ERP qui vous appartient. Je peux le construire avec vous.*
+- **Zone** : Lyon, Annecy, Grenoble ; missions en France, en Suisse et dans l'Union européenne
